@@ -1,6 +1,6 @@
 {
-  "name": "@huskiapp/provider",
-  "version": "0.0.1",
+  "name": "linkdrop-widget-provider",
+  "version": "0.1.0",
   "main": "src/index.js",
   "license": "MIT",
   "publishConfig": {
