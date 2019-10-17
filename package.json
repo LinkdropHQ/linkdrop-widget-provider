@@ -1,0 +1,13 @@
+{
+  "name": "linkdrop-widget-provider",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "publish"
+  },
+  "dependencies": {
+    "ethers": "^4.0.27",
+    "web3-provider-engine": "^15.0.0"
+  }
+}
