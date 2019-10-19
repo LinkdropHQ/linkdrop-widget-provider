@@ -1,20 +1,3 @@
-// @media (max-width: 576px) {
-//     .ld-container {
-//       bottom: 0;
-//       top: auto;
-//     }
-// }
-// @media (max-width: 576px) {
-//     .por_portis-widget-frame {
-//       bottom: 0;
-//       top: auto;
-//       width: 100%;
-//       right: 0;
-//       left: 0;
-//       border-bottom-left-radius: 0;
-//       border-bottom-right-radius: 0;
-//     }
-// }
 
 export const styles = `
 .ld-widget-container {
